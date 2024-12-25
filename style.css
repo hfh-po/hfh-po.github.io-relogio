@@ -14,11 +14,10 @@ body {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    border: 2px solid #c2ffb0;
+    border: 2px solid red;
 }
 
 .relogio_digital {
     font-size: 50px;
     text-align: center;
 }
-
